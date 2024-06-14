@@ -23,7 +23,7 @@ function main(){
 
      if ! command -v jq &> /dev/null
     then
-        echo -e "\n${redColour}[!] Instalango jq...${endColour}"
+        echo -e "\n${redColour}[!] Instalando jq...${endColour}"
         sudo apt-get install -y jq > /dev/null 2>&1
     fi
 
