@@ -1,5 +1,5 @@
 # WizardScan
-WizardScan realiza un escaneo de subdominios e IPs asociados a un dominio específico. A continuación, utiliza Nmap para ejecutar un escaneo detallado de cada IP identificada. Adicionalmente, la herramienta incluye un detector de sitios WordPress, permitiendo posteriormente un escaneo profundo de estos sitios mediante herramientas especializadas para WordPress.
+WizardScan automatiza toda la fase previa de una auditoria, WizardScan realiza un escaneo de subdominios e IPs asociados a un dominio específico. Luego, utiliza Nmap para ejecutar un escaneo detallado de cada IP identificada. Adicionalmente, la herramienta incluye un detector de sitios WordPress, permitiendo posteriormente un escaneo profundo de estos sitios mediante Wpscan, Wizard te crea una carpeta y dentro de ella te deja todos los archivos necesarios bien ordenados para su uso.
 
 <img src="https://github.com/M4nuTCP/WizardScan/assets/96147300/be975418-825b-4748-b21b-175b5fb1d025" alt="image" width="500"/>
 
