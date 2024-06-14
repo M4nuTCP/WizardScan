@@ -21,6 +21,12 @@ trap ctrl_c INT
 function main(){
     dominio=$1
 
+     if ! command -v jq &> /dev/null
+    then
+        sudo apt-get update -y > /dev/null 2>&1
+        sudo apt-get install -y jq > /dev/null 2>&1
+    fi
+
     echo -en "\n${greenColour}[+] Nombre de la carpeta:${endColour} "
     read carpeta
 
