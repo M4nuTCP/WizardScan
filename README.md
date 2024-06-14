@@ -11,6 +11,8 @@ chmod +x installation.sh
 sudo ./installation.sh
 ```
 
+Una vez instalado, puedes ejecutar WizardScan desde cualquier carpeta. La herramienta se instala y se convierte en un ejecutable binario, por lo que puedes eliminar la carpeta creada durante la instalación si lo deseas.
+
 <img src="https://github.com/M4nuTCP/WizardScan/assets/96147300/402dcbe2-0c3a-4d7f-a52f-dad8fc6fce39" alt="CapturaTreeWizardScan" width="500"/>
 
 ## POC:
