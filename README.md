@@ -13,6 +13,6 @@ sudo ./installation.sh
 
 <img src="https://github.com/M4nuTCP/WizardScan/assets/96147300/402dcbe2-0c3a-4d7f-a52f-dad8fc6fce39" alt="CapturaTreeWizardScan" width="500"/>
 
-Imagen POC:
+## POC:
 
 <img src="https://github.com/M4nuTCP/WizardScan/assets/96147300/f8ea02b1-bfd4-41a8-9b55-6674d6b76049" alt="image" width="500"/>
