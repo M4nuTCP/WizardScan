@@ -23,7 +23,6 @@ function main(){
 
      if ! command -v jq &> /dev/null
     then
-        sudo apt-get update -y > /dev/null 2>&1
         sudo apt-get install -y jq > /dev/null 2>&1
     fi
 
