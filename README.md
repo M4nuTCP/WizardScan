@@ -3,6 +3,10 @@ WizardScan automatiza toda la fase previa de una auditoria, WizardScan realiza u
 
 <img src="https://github.com/M4nuTCP/WizardScan/assets/96147300/be975418-825b-4748-b21b-175b5fb1d025" alt="image" width="500"/>
 
+## Documentación
+
+https://m4nu.gitbook.io/m4nu/mis-proyectos/wizardscan
+
 ## Instalación:
 
 ```
